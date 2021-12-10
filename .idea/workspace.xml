@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5b4351f-cb43-4811-9903-58d24e1998ef" name="Default Changelist" comment="・係数を変動込に修正&#10;・探索中に距離込みのペナルティを基に探索を行っていなかったため修正&#10;各ペナルティの値は要検証&#10;&#10;ペナルティを[3,1,3]" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21wzfsd47Y1MA0O3HDCHRS5J300" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.min_max">
+    <configuration name="min_max" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tyukan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/min_max.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="no_swaps_hyojun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tyukan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/no_swaps_hyojun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swaps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tyukan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swaps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.min_max" />
+        <item itemvalue="Python.swaps" />
+        <item itemvalue="Python.no_swaps_hyojun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5b4351f-cb43-4811-9903-58d24e1998ef" name="Default Changelist" comment="" />
+      <created>1638867043969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638867043969</updated>
+    </task>
+    <task id="LOCAL-00001" summary="・係数を変動込に修正&#10;・探索中に距離込みのペナルティを基に探索を行っていなかったため修正&#10;各ペナルティの値は要検証">
+      <created>1639020486181</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639020486181</updated>
+    </task>
+    <task id="LOCAL-00002" summary="・係数を変動込に修正&#10;・探索中に距離込みのペナルティを基に探索を行っていなかったため修正&#10;各ペナルティの値は要検証">
+      <created>1639020747462</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639020747462</updated>
+    </task>
+    <task id="LOCAL-00003" summary="・係数を変動込に修正&#10;・探索中に距離込みのペナルティを基に探索を行っていなかったため修正&#10;各ペナルティの値は要検証&#10;&#10;ペナルティを[3,1,3]">
+      <created>1639116680919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639116680919</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="・係数を変動込に修正&#10;・探索中に距離込みのペナルティを基に探索を行っていなかったため修正&#10;各ペナルティの値は要検証" />
+    <MESSAGE value="・係数を変動込に修正&#10;・探索中に距離込みのペナルティを基に探索を行っていなかったため修正&#10;各ペナルティの値は要検証&#10;&#10;ペナルティを[3,1,3]" />
+    <option name="LAST_COMMIT_MESSAGE" value="・係数を変動込に修正&#10;・探索中に距離込みのペナルティを基に探索を行っていなかったため修正&#10;各ペナルティの値は要検証&#10;&#10;ペナルティを[3,1,3]" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3617" y="461" width="435" height="525" key="FileChooserDialogImpl" timestamp="1639021109161">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3617" y="461" width="435" height="525" key="FileChooserDialogImpl/88.27.2472.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1639021109161" />
+    <state x="3704" y="615" width="272" height="217" key="Github.ShareDialog" timestamp="1639117309544">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3704" y="615" width="272" height="217" key="Github.ShareDialog/88.27.2472.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1639117309544" />
+    <state width="2533" height="400" key="GridCell.Tab.0.bottom" timestamp="1639117388909">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2533" height="400" key="GridCell.Tab.0.bottom/88.27.2472.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1639117388909" />
+    <state width="2533" height="400" key="GridCell.Tab.0.center" timestamp="1639117388909">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2533" height="400" key="GridCell.Tab.0.center/88.27.2472.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1639117388909" />
+    <state width="2533" height="400" key="GridCell.Tab.0.left" timestamp="1639117388909">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2533" height="400" key="GridCell.Tab.0.left/88.27.2472.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1639117388909" />
+    <state width="2533" height="400" key="GridCell.Tab.0.right" timestamp="1639117388909">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2533" height="400" key="GridCell.Tab.0.right/88.27.2472.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1639117388909" />
+    <state x="3259" y="386" width="800" height="538" key="Vcs.Push.Dialog.v2" timestamp="1639117211575">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3259" y="386" width="800" height="538" key="Vcs.Push.Dialog.v2/88.27.2472.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1639117211575" />
+  </component>
+</project>
